@@ -1,4 +1,4 @@
-package com.matt-grant;
+package com.dim;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
